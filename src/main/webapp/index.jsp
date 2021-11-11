@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello   Lakshi Patil and Nattyyyyyy!! welcome to manipal....lets partyyyyyy yooooooo</h2>
+<h2>Hello   Lakshi Patil and Nattyyyyyy!</h2>
 </body>
 </html>
